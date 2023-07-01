@@ -13,9 +13,10 @@
 
 mostly selftaught passionate  ~~fullstack?~~ backend developer
 
-cant live without shortcuts
+I develop creative solutions to boring stuff, specially tools for e-commerce sellers. currently working freelance on an app to automate prices based on demand linking Mercado Libre, Tienda Nube and ERPs. Hopefully public release soon!
 
->I develop creative solutions to boring stuff, specially tools for e-commerce sellers. currently working on an app to automate prices based on demand linking Mercado Libre, Tienda Nube and ERPs. Hopefully public release soon!
+### *cant live without shortcuts*
+
 
 always looking for new technologies to learn. right now im into Go, if mercadolibre uses it, **im definitely learning it**.
 
