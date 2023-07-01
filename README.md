@@ -11,8 +11,15 @@
 
 **a sound engineer that got into coding.** *hey, i know how a compressor works!*
 
+mostly selftaught passionate  ~~fullstack?~~ backend developer
+
 cant live without shortcuts
 
-I develop creative solutions to boring stuff, specially tools for e-commerce sellers. mostly selftaught
+>I develop creative solutions to boring stuff, specially tools for e-commerce sellers. currently working on an app to automate prices based on demand linking Mercado Libre, Tienda Nube and ERPs. Hopefully public release soon!
 
 always looking for new technologies to learn. right now im into Go, if mercadolibre uses it, **im definitely learning it**.
+
+
+### **SOUND AND CODING?**
+
+yes! check out [this repo](https://github.com/juanelprogrammer/soniditos). more tools coming!
